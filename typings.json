@@ -1,0 +1,7 @@
+{
+  "name": "skillz",
+  "dependencies": {},
+  "globalDependencies": {
+    "jasmine": "registry:dt/jasmine#2.5.0+20161119044246"
+  }
+}
